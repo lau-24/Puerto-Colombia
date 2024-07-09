@@ -125,9 +125,6 @@ h1 {
 .impactos {
   background-color: #abafba;
 }
-.mapas {
-  background-color: #ead5c0;
-}
 .comun {
   background-color: #ead5c0;
 }
@@ -179,6 +176,9 @@ h1 {
 .quince {
   background-color: #abafba
 }
+.casa {
+  background-color: #ead5c0
+}
 .cosa{
   background-color: #ead5c0
 }
@@ -207,6 +207,13 @@ h1 {
    background-position: center;
    padding: 2em 0;
 }
+.cuarto {
+  background-image: url("fondo.png");
+   background-size: cover;
+   background-position: center;
+   padding: 2em 0;
+}
+
 a {
   color: #000000;
   background-color: #ead5c0;
@@ -218,6 +225,11 @@ a {
    background-position: center;
    padding: 2em 0;
 }  
+.stilo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .ins {
   text-align: center;
   background-color: #abafba
