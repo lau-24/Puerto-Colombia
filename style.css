@@ -197,7 +197,9 @@ h1 {
    background-position: center;
    padding: 2em 0;
 }
-
+.mapa {
+  background-color: #ead5c0
+}
   .segundo {
    background-image: url("fondo.png");
    background-size: cover;
